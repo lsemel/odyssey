@@ -7,6 +7,8 @@ It contains a bunch of spontaneous problems I wrote as well as advice for teams 
 
 I'm releasing it a open source for any current Odyssey of the Mind teams that might find it useful.
 
+View the site: http://lsemel.github.com/odyssey/
+
 Authors:
 --------
 
