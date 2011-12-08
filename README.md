@@ -21,7 +21,7 @@ The design of this site was pretty advanced for the time, given that it was writ
 
 Web designers can can marvel at the non-HTML5-compliant code full of non-semantic, presentational markup, and realize how far Web coding has advanced.  Enjoy all the tables, font tags, and image maps.
 
-(If you really want a laugh, look closely at the meta tags.)
+If you really want a laugh, look closely at the meta tags.
 
 View the site 
 ----------------
