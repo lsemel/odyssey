@@ -13,7 +13,7 @@ It's also the first real website I ever made.
 
 The design of this site was pretty advanced for the time, given that it was written for an early version of Netscape which recently introduced such advanced features as repeating background images.
 
-Web designers can can marvel at the non-HTML5-compliant code full of non-semantic, presentational markup, and realize how far Web coding has advanced.
+Web designers can can marvel at the non-HTML5-compliant code full of non-semantic, presentational markup, and realize how far Web coding has advanced.  Enjoy all the tables, font tags, and image maps.
 
 
 View the site: http://lsemel.github.com/odyssey/
