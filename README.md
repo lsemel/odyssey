@@ -18,7 +18,12 @@ The design of this site was pretty advanced for the time, given that it was writ
 Web designers can can marvel at the non-HTML5-compliant code full of non-semantic, presentational markup, and realize how far Web coding has advanced.  Enjoy all the tables, font tags, and image maps.
 
 
-View the site: http://lsemel.github.com/odyssey/
+
+View the site 
+----------------
+
+http://lsemel.github.com/odyssey/
+
 
 Authors:
 --------
