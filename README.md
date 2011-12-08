@@ -4,7 +4,9 @@ Odyssey of the Mind Site
 About the site
 --------------
 
-This is a site I made a long time ago when I was an Odyssey of the Mind coach for my brother's team.   It contains a bunch of spontaneous problems I wrote as well as advice for teams which may or may not still be valuable.  I'm releasing it a open source for any current Odyssey of the Mind teams that might find it useful.   It features a fun corrugated-cardboard and balsa-wood based theme, inspired by the materials most often used by teams in their solutions.
+This is a site I made a long time ago when I was an Odyssey of the Mind coach for my brother's team.   It contains a bunch of spontaneous problems I wrote as well as advice for teams which may or may not still be valuable.  It features a fun corrugated-cardboard and balsa-wood based theme, inspired by the materials most often used by teams in their solutions.
+
+I recently discoverd that my cousins, who are in grade school, are participating in the program, and that their dad (also my cousin) is their coach.  Someone had handed them an old printout of this site that someone had saved, and they were using the problems that I wrote!   So I decided to dig it up and release it as open source for any current Odyssey of the Mind teams that might find it useful.   
 
 My first website
 ----------------
