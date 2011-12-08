@@ -4,8 +4,7 @@ Odyssey of the Mind Site
 About the site
 --------------
 
-This is a site I made a long time ago when I was an Odyssey of the Mind coach for my brother's team.   It contains a bunch of spontaneous problems I wrote as well as advice for teams which may or may not still be valuable. 
-
+This is a site I made a long time ago when I was an Odyssey of the Mind coach for my brother's team.  
 I recently discoverd that my cousins, who are in grade school, are now participating in the program, 
 and that their dad (also my cousin) is their school's coach.  They were looking for practice
 problems, and someone handed them a printout of this site that coaches had been passing around for years.  
