@@ -8,5 +8,7 @@ It contains a bunch of spontaneous problems I wrote as well as advice for teams 
 I'm releasing it a open source for any current Odyssey of the Mind teams that might find it useful.
 
 Authors:
-    Lee Semel http://leesemel.com
-    Matt Semel http://mattsemel.com
+--------
+
+* Lee Semel http://leesemel.com
+* Matt Semel http://mattsemel.com
