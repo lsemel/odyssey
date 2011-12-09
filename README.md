@@ -4,7 +4,9 @@ Odyssey of the Mind Site
 About the site
 --------------
 
-This is a site I made a long time ago when I was an Odyssey of the Mind coach for my brother's team.   I recently discoverd that my cousins, who are in grade school, are now participating in the program, and that their dad (also my cousin) is their school's coach.  They were looking for practice problems, and someone handed them a photocopied printout of this site that coaches had been passing around for years.  Kids were still using and enjoying the problems that I wrote.   So I decided to dig up the original code andrelease it as open source for any current Odyssey of the Mind teams that might find it useful.   
+This is a site I made a long time ago when I was an Odyssey of the Mind coach for my brother's team.   Odyssey of the Mind is a creative-problem solving competition, with elementary through high-school kids around the world participating.
+
+I recently discoverd that my cousins, who are in grade school, are now participating in the program, and that their dad (also my cousin) is their school's coach.  They were looking for practice problems, and someone handed them a photocopied printout of this site that coaches had been passing around for years.  Kids were still using and enjoying the problems that I wrote.   So I decided to dig up the original code andrelease it as open source for any current Odyssey of the Mind teams that might find it useful.   
 
 My first website
 ----------------
